@@ -307,8 +307,8 @@ If you find this repository useful, then consider to leave a ⭐.
 
 Connect with me
 
-👉 LinkedIn: <https://www.linkedin.com/in/srejon-ferdous/>
+👉 LinkedIn: <https://www.linkedin.com/in/asaduzzaman-rayhan-63946a339/>
 
-👉 Facebook: <https://www.facebook.com/srejon.ferdous10>
+👉 Gmail: asaduzzamanrayhan15@gmail.com
 
 Thanks a lot 🙂🙂
