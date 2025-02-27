@@ -15,7 +15,7 @@ I am assuming that, you have already installed **Visual Studio 2022** (It is the
 1.Open command prompt. Go to a directory where you want to clone this project. Use this command to clone the project.
 
 ```bash
-git clone https://github.com/SrejonFerdous/DigitalRead_E-Book-Store
+git clone https://github.com/AsadRay/DigitalRead_E-Book-Store
 ```
 
 2.Go to the directory where you have cloned this project, open the directory `BookShoppingCart-Mvc`. You will find a file with name `BookShoppingCartMvc.sln`. Double click on this file and this project will be opened in Visual Studio.
